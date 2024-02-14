@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\bin\Debug\net8.0-windows\Curtain Calculator.exe
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\bin\Debug\net8.0-windows\Curtain Calculator.deps.json
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\bin\Debug\net8.0-windows\Curtain Calculator.runtimeconfig.json
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\bin\Debug\net8.0-windows\Curtain Calculator.dll
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\bin\Debug\net8.0-windows\Curtain Calculator.pdb
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain_Calculator.Form1.resources
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.dll
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\refint\Curtain Calculator.dll
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.pdb
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\ref\Curtain Calculator.dll
