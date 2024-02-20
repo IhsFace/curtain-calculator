@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\curtain-calculator\\Curtain Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0965215E-6FB2-45C7-9CAD-F17A1DA159F4}|Curtain Calculator\\Curtain Calculator.vbproj|c:\\users\\ihsaa\\projects\\curtain-calculator\\curtain calculator\\curtain calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0965215E-6FB2-45C7-9CAD-F17A1DA159F4}|Curtain Calculator\\Curtain Calculator.vbproj|solutionrelative:curtain calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0965215E-6FB2-45C7-9CAD-F17A1DA159F4}|Curtain Calculator\\Curtain Calculator.vbproj|c:\\users\\ihsaa\\projects\\curtain-calculator\\curtain calculator\\curtain calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0965215E-6FB2-45C7-9CAD-F17A1DA159F4}|Curtain Calculator\\Curtain Calculator.vbproj|solutionrelative:curtain calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\curtain-calculator\\Curtain Calculator\\Curtain Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Curtain Calculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\curtain-calculator\\Curtain Calculator\\Curtain Calculator\\Form1.vb",
+              "RelativeToolTip": "Curtain Calculator\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA8wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-14T01:59:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\curtain-calculator\\Curtain Calculator\\Curtain Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Curtain Calculator\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\curtain-calculator\\Curtain Calculator\\Curtain Calculator\\Form1.vb [Design]",
+              "RelativeToolTip": "Curtain Calculator\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-14T01:47:30.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

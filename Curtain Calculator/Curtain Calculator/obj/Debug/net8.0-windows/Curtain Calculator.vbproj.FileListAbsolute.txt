@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator
 C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.pdb
 C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\ref\Curtain Calculator.dll
+C:\Users\ihsaa\Projects\curtain-calculator\Curtain Calculator\Curtain Calculator\obj\Debug\net8.0-windows\Curtain Calculator.sourcelink.json
